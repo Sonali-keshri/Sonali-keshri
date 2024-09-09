@@ -3,7 +3,7 @@
 </a></p>
 <br>
 <h1 align="center">Hi I'm Sonali 👋,</h1>
-<h3 align="center">A passionate Front-End developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalikeshri&label=Profile%20views&color=0e75b6&style=flat" alt="sonalikeshri" /> </p>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
-- 👨‍💻 All of my projects are available at [https://sonaliportofolio.netlify.app/](https://sonaliportofolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sonaliportofolio-dev.netlify.app/](https://sonaliportfolio-dev.netlify.app/)
 
 - 💬 Ask me about **React Js, Web Dev, MongoDB, JavaScript etc...**
 
