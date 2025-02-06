@@ -8,11 +8,11 @@
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalikeshri&label=Profile%20views&color=0e75b6&style=flat" alt="sonalikeshri" /> </p>
 
-- 🔭 I’m currently pursuing BTech final year Computer Science.
+- 🔭 I’ve recently completed my BTech in Computer Science.
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
-- 👨‍💻 All of my projects are available at [https://sonaliportofolio-dev.netlify.app/](https://sonaliportfolio-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sonali-keshri.netlify.app/](https://sonali-keshri.netlify.app/)
 
 - 💬 Ask me about **React Js, Web Dev, MongoDB, JavaScript etc...**
 
